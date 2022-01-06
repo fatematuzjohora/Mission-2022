@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 20px;
+}
+    
+    
+h1{ 
+    font-size: 30px;
+    padding: 5px;
+    
+}
+
+.mission-color{
+    color: rebeccapurple;
+}
+.first{
+    border-left: 3px solid rosybrown;
+    border-radius: 3px;
+    
+}
+.first-left-part{
+    width: 50%;
+    padding-left: 8%;
+    
+
+}
+.first-left-part img{
+    width: 73%;
+}
+.img{
+    margin-right: 30px;
+}
+.explore-button{
+    background-color: rosybrown;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    
+}
+.top-sec{
+    display: flex;
+    
+}
+
+
