@@ -84,4 +84,26 @@ span{
 .back-3rd{
     background-color: rgb(224, 241, 191);
 }
+.middle-sec{
+    display: flex;
+    margin-left: 80px;
+    margin-right: 120px;
+    padding-top: 40px;
 
+}
+.middle-part{
+    width: 50%;
+
+    
+}
+.middle-part img{
+        width: 500px;
+        height: 350px;
+}
+.Read-more-button{
+    background-color: rosybrown;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+}
