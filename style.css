@@ -101,9 +101,19 @@ span{
         height: 350px;
 }
 .Read-more-button{
-    background-color: rosybrown;
+    background-color: cornflowerblue;
     padding: 10px 40px;
     color: white;
     border-radius: 6px;
     text-decoration: none;
+}
+.global{
+    padding-right: 70px;
+}
+.readsec-button{
+    background-color: rgb(99, 189, 99);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;  
 }
